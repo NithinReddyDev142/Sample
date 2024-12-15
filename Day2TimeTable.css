@@ -1,0 +1,47 @@
+.time-table {
+  margin: 20px auto;
+  max-width: 800px;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.time-table table {
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+.time-table th,
+.time-table td {
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.time-table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+  color: #333;
+}
+
+.time-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.time-table tr:hover {
+  background-color: #f1f1f1;
+  transition: background-color 0.2s ease-in;
+}
+
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #444;
+  margin-bottom: 20px;
+}
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #444;
+  margin-bottom: 20px;
+}
